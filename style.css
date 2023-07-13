@@ -1,0 +1,36 @@
+body{
+    background-image: url(./csk\ vs\ mi.png);
+    padding: 100px;
+}
+.team{
+    height: 200px;
+    width: 40%;
+    background-color:yellow;
+    padding: 20px;
+    margin-right: 20px;
+    float: left;
+    border-radius: 50px;
+
+}
+button{
+    width: 500px;
+    font-size: 30px;
+    padding: 100px;
+    color: white;
+     margin-top: 50px;
+    background-color:blue;
+    border-radius: 50px;
+
+}
+button:hover
+{
+    background-color:black;
+    color: yellow;
+    cursor: pointer;
+    
+
+}
+.winner{
+    background-color: blue;
+    color: white;
+}
